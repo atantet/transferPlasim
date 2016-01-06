@@ -1,0 +1,10 @@
+&select
+code=263 # Net Heat Flux
+htype=g
+vtype=p
+#hpa=1000
+mean=0
+grib=0
+netcdf=1
+multi=100
+&end

@@ -1,0 +1,10 @@
+&select
+code=169 # Ts
+htype=g
+vtype=p
+#hpa=500
+mean=0
+grib=0
+netcdf=1
+multi=2
+&end

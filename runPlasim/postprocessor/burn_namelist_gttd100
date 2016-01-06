@@ -1,0 +1,10 @@
+&select
+code=323 # Net Top Radiation
+htype=g
+vtype=p
+#hpa=500
+mean=0
+grib=0
+netcdf=1
+multi=100
+&end

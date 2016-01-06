@@ -26,3 +26,18 @@
 *.exe
 *.out
 *.app
+*.x
+
+# Backup
+*~
+\#*\#
+
+# OSX related
+.DS_Store
+
+# Output directories
+data/
+old/
+plot/
+results/
+src/
